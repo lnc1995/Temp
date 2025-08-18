@@ -1,0 +1,7 @@
+add address=<html> list=CNIP
+add address=<head><title>301 Moved Permanently</title></head> list=CNIP
+add address=<body> list=CNIP
+add address=<center><h1>301 Moved Permanently</h1></center> list=CNIP
+add address=<hr><center>nginx</center> list=CNIP
+add address=</body> list=CNIP
+add address=</html> list=CNIP

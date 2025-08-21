@@ -1579,6 +1579,7 @@ add address=103.50.48.0/20 list=CNIP
 add address=103.50.64.0/21 list=CNIP
 add address=103.50.72.0/22 list=CNIP
 add address=103.50.92.0/22 list=CNIP
+add address=103.52.96.0/21 list=CNIP
 add address=103.52.104.0/23 list=CNIP
 add address=103.52.160.0/21 list=CNIP
 add address=103.52.172.0/22 list=CNIP
